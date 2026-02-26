@@ -1,6 +1,6 @@
 # OpenCart Manual Testing QA Project
 📋 Project Overview<br>
-Comprehensive QA deliverables for OpenCart e-commerce platform following IEEE 829 standards. Complete testing artifacts including test plan, bug reports, and traceability matrix, Test cases
+Comprehensive QA deliverables for OpenCart e-commerce platform. Complete testing artifacts including test plan, bug reports, and traceability matrix, Test cases.
 <br><br>
 Prepared by: Keerthana <br>
 Location: Bengaluru, Karnataka, India
