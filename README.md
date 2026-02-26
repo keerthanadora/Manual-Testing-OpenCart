@@ -9,14 +9,17 @@ Date: February 10, 2026
 🚀 Quick Demo
 Double-click index.html or visit GitHub Pages to see the interactive QA dashboard linking all deliverables.<br>
 📁 Project Structure<br>
-Manual-Testing-OpenCart/<br><p>
-├── index.html              # Interactive QA Dashboard</p><br><p>
-├── README.md                     # This file</p><br>
-└── Ecommerce Open Cart/<br>
-    ├── Test Plan<br>
-    ├── Bug Reports<br>
-    ├── Test cases suite<br>
-    └── Requirement Traceability Matrix<br>
+```
+Manual-Testing-OpenCart/
+├── index.html              # Interactive QA Dashboard
+├── README.md               # This file
+└── Ecommerce Open Cart/
+    ├── Test Plan/
+    ├── Bug Reports/
+    ├── Test cases suite/
+    └── Requirement Traceability Matrix/
+```
+
 <br>
 Author<br>
 Keerthana <br>
